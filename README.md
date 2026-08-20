@@ -36,6 +36,11 @@ AI / LLM   LangGraph · RAG pipelines · MCP · Claude API
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DS-rajatashhpa&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/DS-rajatashhpa)
+| 50K+ | $12M+ | 10M+ | 1M+ |
+|:---:|:---:|:---:|:---:|
+| EV chargers managed | product billings | notifications delivered | orders processed |
+| *Statiq* | *Statiq* | *WhatsApp · SMS · FCM* | *FIM platform* |
+
+*Most production code is in private repos — 4+ years leading backend at [Statiq](https://statiq.in)*
 
 </div>
